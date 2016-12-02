@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavdevice
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavdevice/version.h
+END
+avdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavdevice/avdevice.h
+END

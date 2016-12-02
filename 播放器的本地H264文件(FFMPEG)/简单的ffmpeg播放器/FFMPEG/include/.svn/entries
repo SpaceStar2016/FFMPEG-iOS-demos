@@ -1,0 +1,49 @@
+10
+
+dir
+13
+https://zhongch@192.168.100.10:8443/svn/Camera/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include
+https://zhongch@192.168.100.10:8443/svn/Camera
+
+
+
+2016-10-27T01:34:48.990014Z
+6
+chenmj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7ce6513e-0e9d-bb46-aefa-3b3e17d96517
+
+libavfilter
+dir
+
+libavformat
+dir
+
+libswscale
+dir
+
+libswresample
+dir
+
+libavcodec
+dir
+
+libavutil
+dir
+
+libavdevice
+dir
+

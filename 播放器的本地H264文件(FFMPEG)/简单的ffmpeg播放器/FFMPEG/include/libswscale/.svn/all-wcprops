@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libswscale
+END
+swscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libswscale/swscale.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libswscale/version.h
+END

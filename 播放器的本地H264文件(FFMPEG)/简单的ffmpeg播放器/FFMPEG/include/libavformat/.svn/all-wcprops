@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavformat
+END
+avio.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavformat/avio.h
+END
+avformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavformat/avformat.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavformat/version.h
+END

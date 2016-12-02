@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec
+END
+dv_profile.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec/dv_profile.h
+END
+old_codec_ids.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec/old_codec_ids.h
+END
+vda.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec/vda.h
+END
+xvmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec/xvmc.h
+END
+vdpau.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec/vdpau.h
+END
+vaapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec/vaapi.h
+END
+vorbis_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec/vorbis_parser.h
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec/avcodec.h
+END
+dxva2.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec/dxva2.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec/version.h
+END
+avfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Camera/!svn/ver/6/trunk/src/iOS/SINCECAM/SINCECAM/SINCECAM/ThirdLibs/kxMovie/universal/include/libavcodec/avfft.h
+END
