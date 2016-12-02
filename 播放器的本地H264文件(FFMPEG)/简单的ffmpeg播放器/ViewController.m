@@ -41,8 +41,8 @@
     self.imageVIew = imageVIew;
     
     //创建解码器
-//    NSString * videoPath =[[NSBundle mainBundle] pathForResource:@"SPSTest.h264" ofType:nil];
-    NSString * videoPath = @"/Users/zhongspace/Desktop/FFMPEG播放器制作/SPSTest.h264";
+    NSString * videoPath =[[NSBundle mainBundle] pathForResource:@"SPSTest.h264" ofType:nil];
+//    NSString * videoPath = @"/Users/zhongspace/Desktop/FFMPEG播放器制作/SPSTest.h264";
     SPSDecoder * decoder = [[SPSDecoder alloc] initWithPath:videoPath];
     decoder.delegate = self;
     self.decoder = decoder;
