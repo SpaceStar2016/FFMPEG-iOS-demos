@@ -137,6 +137,7 @@
         av_frame_free(&pFrame);
         avcodec_close(pCodeCtx);
         avformat_close_input(&pFormatCtx);
+        [[NSNotificationCenter defaultCenter] postNotificationName:decodeDidFinishNotification object:nil];
     });
   
 }
@@ -196,8 +197,8 @@
 {
     NSLog(@"取消");
     switch (buttonIndex) {
-        case -1:{
-            
+        case 0:{
+            [[NSNotificationCenter defaultCenter] postNotificationName:decodeFailureNotification object:nil];
         }
             break;
             

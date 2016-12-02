@@ -7,6 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+
+#define decodeDidFinishNotification @"decodeDidFinishNotification"
+
+#define decodeFailureNotification @"decodeFailureNotification"
+
 @class SPSDecoder;
 @protocol SPSDecoderDelegate <NSObject>
 
