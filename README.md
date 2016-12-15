@@ -1,2 +1,2 @@
-# -FFMPEG-H264
-简单的FFMPEG播放H264
+FFMPEG&iOS
+FFMPEG在iOS客户端的应用。(各种例子Demo)
